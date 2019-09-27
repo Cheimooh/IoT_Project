@@ -1,0 +1,22 @@
+Projet à but scolaire.
+
+idées : 
+  - store solaire automatique
+  Utilisation d'un capteur de luminostié, d'un capteur d'humidité et d'un systeme avec resistance pour tester la force du vent.
+  Lorsqu'il y a du soleil : le store s'abaisse
+  Lorsqu'il y a du vent ou de la pluie : le store se range
+  
+  - gestionnaire d'arrosage automatique pour champs
+  Utilisation d'un capteur d'humidité dans la terre, du capteur a onde sonore
+  Lorsque le capteur montre un manque d'humidité dans la terre
+  Tester si il y a de l'eau dans une cuve d'eau de pluie avec le capteur a onde sonore
+  Si il y a de l'eau, l'utiliser pour arroser la parcelle
+  Sinon utiliser le service d'eau classique
+  
+  - kit d'amélioration voiture
+  Utilisation du capteur a onde sonore, d'un accelerometre 
+  Tester si une voiture est pres de nous -> reduction de la vitesse pour augmenter la distance de sécurité
+  Tester les cas d'excès de vitesse
+  Partage d'information entre les voitures afin de definir les rique : ralentissement, arret etc afin de fluidifier le trafic
+  
+  
